@@ -1,2 +1,2 @@
-# -ninacarducci.openclassrooms
+# ninacarducci.openclassrooms
 Projet scolaire
