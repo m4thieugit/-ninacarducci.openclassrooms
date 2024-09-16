@@ -5,7 +5,7 @@ Projet scolaire OpenClassrooms
 
 ### Performances
 
-- Optimisation des images en les compressants puis en les convertissants vers le format .AVIF
+- Optimisation des images en les compressant puis en les convertissant au format .AVIF
 - Unification et minification des fichiers JS
 - Les balises scripts ont été déplacées de la balise head vers le body
 
