@@ -27,4 +27,4 @@ Projet scolaire OpenClassrooms
 - Meta og et cartes Twitter
 
 # Score Lighthouse
-![Score Lighthouse](https://github.com/user-attachments/assets/56909ec5-f516-42ee-99b2-f5d5197abd69)
+![Score Lighthouse](https://github.com/user-attachments/assets/9a76a760-3fe8-49b8-a22a-ae2dee07b3c8)
